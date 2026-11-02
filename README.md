@@ -1,11 +1,11 @@
 # COS 201 — Computer Programming I
 
 ## Student Details
-- **Name:** Ifedioranma Blessed
-- **Matriculation Number:** 25/16433
-- **Programme:** Computer Science
+- **Name:** Ughamadu Chimkamso
+- **Matriculation Number:** 25/16264
+- **Programme:** Software Engineering 
 - **Course Code:** COS 201
-- **Repository URL:** https://github.com/iamthegiftedone/cos201-programming-I.git
+- **Repository URL:** 
 
 ---
 
