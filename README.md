@@ -5,7 +5,7 @@
 - **Matriculation Number:** 25/16264
 - **Programme:** Software Engineering 
 - **Course Code:** COS 201
-- **Repository URL:** 
+- **Repository URL:** https://github.com/ughamaduchimkamso/cos201-programming-I.git
 
 ---
 
